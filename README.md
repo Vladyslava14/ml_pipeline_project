@@ -27,18 +27,16 @@ Model Evaluation Metrics
 Feature Importance and Visualization
 
 # Technologies Used
-
-Python 3.x
-scikit-learn – machine learning models and evaluation metrics
-pandas / numpy – data handling and preprocessing
-matplotlib / seaborn – result visualization (optional)
+- Python 3.x
+- scikit-learn – machine learning models and evaluation metrics
+- pandas / numpy – data handling and preprocessing
+- matplotlib / seaborn – result visualization (optional)
 
 # Project Structure
 ml_pipeline_project/
-│
-├── ml_pipeline_project.py     # Main script containing the ML pipeline
-├── README.md          # Project documentation
-└── requirements.txt   # Project dependencies
+/ ml_pipeline_project.py     # Script containing the ML pipeline
+/ README.md          # Project documentation
+/ requirements.txt   # Project dependencies
 
 # Dataset
 The project uses the built-in Iris dataset from scikit-learn.
@@ -76,7 +74,7 @@ Visualization
 
 Clone the repository:
 
-git clone https://github.com/your-username/ml-pipeline-project.git
+git clone (https://github.com/Vladyslava14/ml_pipeline_project.git)
 cd ml-pipeline-project
 
 Install dependencies:
